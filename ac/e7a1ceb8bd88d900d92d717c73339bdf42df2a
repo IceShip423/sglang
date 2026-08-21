@@ -1,0 +1,16 @@
+.github/workflows/full-test-npu.yml
+  h_38f3cf6cff08a7 8,32,96,113-124,126-147,149-163,166-182,184-204,206-275,277-343,345-410,412-477,508-511,518-530,532-535,589,593,620-641,767-787,809-815,844-853,855,858,862,866-872,874-880,882-888,890-896,898-904,906-912,915,935-950,955-958,963
+test/registered/npu/accuracy/glm5_1/test_npu_glm5_1_w4a8_1p1d_32p_in64k_out1k_50ms_aime26.py
+  h_38f3cf6cff08a7 162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "ace7a1ceb8bd88d900d92d717c73339bdf42df2a",
+  "prompts": {},
+  "humans": {
+    "h_38f3cf6cff08a7": {
+      "author": "IceShip <15985770423@163.com>"
+    }
+  }
+}
