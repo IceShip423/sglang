@@ -1,0 +1,37 @@
+.github/workflows/full-test-npu.yml
+  s_49585885aa6ada::t_75249720a3e9d1 4-10,27,64,75,117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "3c75da68874071687ffa1cb8463b3e9321817ca6",
+  "prompts": {},
+  "humans": {
+    "h_38f3cf6cff08a7": {
+      "author": "IceShip <15985770423@163.com>"
+    }
+  },
+  "sessions": {
+    "s_49585885aa6ada": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8bb5b73254982e9b01094a",
+        "model": "glm-5.2"
+      },
+      "human_author": "IceShip <15985770423@163.com>",
+      "custom_attributes": {
+        "edit_kind": "file_edit",
+        "external_session_id": "6a8bb5b73254982e9b01094a",
+        "tool_use_id": "6a8bfafe4520561857f1441c",
+        "dedupe_key": "6a8bb5b73254982e9b01094a:6a8bfafe4520561857f1441c:afterEdit:6647e05b",
+        "tool_type": "builtin",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "agent",
+        "session_id": "6a8bb5b73254982e9b01094a",
+        "operation_id": "6a8bfafe4520561857f1441c",
+        "client_type": "ide"
+      }
+    }
+  }
+}
