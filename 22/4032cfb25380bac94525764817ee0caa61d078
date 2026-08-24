@@ -1,0 +1,37 @@
+test/registered/npu/accuracy/glm5_2/test_npu_glm_5_2_w4a8_8p_gpqa.py
+  s_b9b5948f5f35ca::t_aff925deb913d9 82-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "224032cfb25380bac94525764817ee0caa61d078",
+  "prompts": {},
+  "humans": {
+    "h_38f3cf6cff08a7": {
+      "author": "IceShip <15985770423@163.com>"
+    }
+  },
+  "sessions": {
+    "s_b9b5948f5f35ca": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a896460b12575075a60d8f7",
+        "model": "glm-5.3"
+      },
+      "human_author": "IceShip <15985770423@163.com>",
+      "custom_attributes": {
+        "session_id": "6a896460b12575075a60d8f7",
+        "client_type": "ide",
+        "external_session_id": "6a896460b12575075a60d8f7",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "tool_use_id": "6a8965a1b12575075a60d95c",
+        "source_scene": "agent",
+        "tool_type": "builtin",
+        "operation_id": "6a8965a1b12575075a60d95c",
+        "edit_kind": "file_edit",
+        "dedupe_key": "6a896460b12575075a60d8f7:6a8965a1b12575075a60d95c:afterEdit:f05c9765"
+      }
+    }
+  }
+}
